@@ -1,0 +1,190 @@
+# 恩平话语音识别训练数据集
+# Enping Dialect Speech Recognition Training Dataset
+# 编码：UTF-8
+
+## 基础词汇 - Basic Vocabulary
+
+### 数字 Numbers
+1. 一 jit1
+2. 二 ngit6
+3. 三 saam1
+4. 四 sai3
+5. 五 m5
+6. 六 luk6
+7. 七 tit1
+8. 八 paat3
+9. 九 gau2
+10. 十 sap6
+
+### 家庭称谓 Family Terms
+11. 阿爸 aa3 baa1 (父亲)
+12. 阿妈 aa3 maa1 (母亲)
+13. 阿哥 aa3 go1 (哥哥)
+14. 阿姐 aa3 ze2 (姐姐)
+15. 细佬 sai3 lou2 (弟弟)
+16. 细妹 sai3 mui2 (妹妹)
+17. 阿公 aa3 gung1 (爷爷)
+18. 阿婆 aa3 po2 (奶奶)
+19. 仔 zai2 (儿子)
+20. 女 neoi2 (女儿)
+
+### 日常用品 Daily Items
+21. 饭 faan6 (米饭)
+22. 水 seoi2 (水)
+23. 茶 caa4 (茶)
+24. 衫 saam1 (衣服)
+25. 鞋 haai4 (鞋子)
+26. 袋 doi6 (袋子)
+27. 书 syu1 (书)
+28. 笔 bat1 (笔)
+29. 纸 zi2 (纸)
+30. 钱 cin2 (钱)
+
+### 时间词汇 Time Expressions
+31. 今日 gam1 jat6 (今天)
+32. 听日 ting1 jat6 (明天)
+33. 噚日 cam4 jat6 (昨天)
+34. 朝早 ziu1 zou2 (早上)
+35. 中午 zung1 ng5 (中午)
+36. 夜晚 je6 maan1 (晚上)
+37. 而家 ji4 gaa1 (现在)
+38. 钟头 zung1 tau4 (小时)
+39. 分钟 fan1 zung1 (分钟)
+40. 星期 sing1 kei4 (星期)
+
+## 常用短语 Common Phrases
+
+### 问候语 Greetings
+41. 你好 nei5 hou2 (你好)
+42. 早晨 zou2 san4 (早上好)
+43. 拜拜 baai1 baai3 (再见)
+44. 多谢 do1 ze6 (谢谢)
+45. 唔使 m4 sai2 (不用谢)
+46. 对唔住 deoi3 m4 zyu6 (对不起)
+47. 冇问题 mou5 man6 tai4 (没问题)
+48. 得闲 dak1 haan4 (有空)
+49. 忙紧 mong4 gan2 (很忙)
+50. 身体好 san1 tai2 hou2 (身体好)
+
+### 询问表达 Questions
+51. 乜嘢 mat1 je5 (什么)
+52. 边个 bin1 go3 (谁)
+53. 边度 bin1 dou6 (哪里)
+54. 几时 gei2 si4 (什么时候)
+55. 点解 dim2 gaai2 (为什么)
+56. 点样 dim2 joeng2 (怎么样)
+57. 几多 gei2 do1 (多少)
+58. 边只 bin1 zek3 (哪个)
+59. 几大 gei2 daai6 (多大)
+60. 几远 gei2 jyun5 (多远)
+
+### 日常动作 Daily Actions
+61. 食饭 sik6 faan6 (吃饭)
+62. 饮茶 jam2 caa4 (喝茶)
+63. 瞓觉 fan3 gaau3 (睡觉)
+64. 起身 hei2 san1 (起床)
+65. 洗面 sai2 min6 (洗脸)
+66. 刷牙 caat3 ngaa4 (刷牙)
+67. 着衫 zoek3 saam1 (穿衣服)
+68. 出街 ceot1 gaai1 (出门)
+69. 返屋企 faan1 uk1 kei2 (回家)
+70. 做嘢 zou6 je5 (工作)
+
+## 完整句子 Complete Sentences
+
+### 自我介绍 Self Introduction
+71. 我叫张三，住喺恩平。 ngo5 giu3 zoeng1 saam1, zyu6 hai2 jan1 ping4.
+72. 我今年二十岁。 ngo5 gam1 nin4 ji6 sap6 seoi3.
+73. 我喺度返工。 ngo5 hai2 dou6 faan1 gung1.
+74. 我钟意食粥。 ngo5 zung1 ji3 sik6 zuk1.
+75. 我屋企有四个人。 ngo5 uk1 kei2 jau5 sei3 go3 jan4.
+
+### 日常对话 Daily Conversations
+76. 你今日做乜嘢？ nei5 gam1 jat6 zou6 mat1 je5?
+77. 我去买菜。 ngo5 heoi3 maai5 coi3.
+78. 天气好热啊。 tin1 hei3 hou2 jit6 aa1.
+79. 落雨喇，记住攞遮。 lok6 jyu5 laa3, gei3 zyu6 lo2 ze1.
+80. 我肚饿喇。 ngo5 tou5 ngo6 laa3.
+
+### 购物用语 Shopping Expressions
+81. 呢个几多钱？ ni1 go3 gei2 do1 cin2?
+82. 太贵喇。 taai3 gwai3 laa3.
+83. 平啲得唔得？ peng4 di1 dak1 m4 dak1?
+84. 我要三斤苹果。 ngo5 jiu3 saam1 gan1 ping4 gwo2.
+85. 埋单。 maai4 daan1.
+
+### 问路指路 Asking for Directions
+86. 请问银行喺边度？ cing2 man6 ngan4 hong4 hai2 bin1 dou6?
+87. 一直行，到十字路口转左。 jat1 zik6 haang4, dou3 sap6 zi6 lou6 hau2 zyun3 zo2.
+88. 大概要行十分钟。 daai6 koi3 jiu3 haang4 sap6 fan1 zung1.
+89. 多谢你指路。 do1 ze6 nei5 zi2 lou6.
+90. 唔使客气。 m4 sai2 haak3 hei3.
+
+### 餐厅用语 Restaurant Expressions
+91. 有位吗？ jau5 wai2 maa3?
+92. 我哋要两个人嘅台。 ngo5 dei6 jiu3 loeng5 go3 jan4 ge3 toi4.
+93. 餐牌俾我睇睇。 caan1 paai4 bei2 ngo5 tai2 tai2.
+94. 我要一碗白粥。 ngo5 jiu3 jat1 wun2 baak6 zuk1.
+95. 唔该埋单。 m4 goi1 maai4 daan1.
+
+### 时间表达 Time Expressions
+96. 而家几点钟？ ji4 gaa1 gei2 dim2 zung1?
+97. 三点半。 saam1 dim2 bun3.
+98. 我五点钟下班。 ngo5 m5 dim2 zung1 haa6 baan1.
+99. 噚日我返咗成日工。 cam4 jat6 ngo5 faan1 zo2 seng4 jat6 gung1.
+100. 听日系星期日。 ting1 jat6 hai6 sing1 kei4 jat6.
+
+## 短文段落 Short Paragraphs
+
+### 天气描述 Weather Description
+101. 今日天气好好，阳光普照，微风轻拂。呢啲天气最啱出去行山或者去公园玩。
+jit1 jat6 tin1 hei3 hou2 hou2, joeng4 gwong1 pou2 ziu3, mei4 fung1 heng1 fat1. ni1 di1 tin1 hei3 zeoi3 ngaam1 ceot1 heoi3 haang4 saan1 waak6 ze2 heoi3 gung1 jyun2 waan2.
+
+### 家庭生活 Family Life
+102. 我屋企有爸爸妈妈同埋一个细佬。爸爸返工，妈妈煮饭，细佬读书。我哋一家人好开心。
+ngo5 uk1 kei2 jau5 baa4 baa1 maa4 maa1 tung4 maai4 jat1 go3 sai3 lou2. baa4 baa1 faan1 gung1, maa4 maa1 zyu2 faan6, sai3 lou2 duk6 syu1. ngo5 dei6 jat1 gaa1 jan4 hou2 hoi1 sam1.
+
+### 节日庆祝 Festival Celebration
+103. 过年嘅时候，我哋一家人会聚埋一齐食团年饭。大家倾偈，好热闹。细路仔会收利是，好开心。
+gwo3 nin4 ge3 si4 hau6, ngo5 dei6 jat1 gaa1 jan4 wui5 zeoi6 maai4 jat1 cai4 sik6 tyun4 nin4 faan6. daai6 gaa1 king1 gai2, hou2 jit6 naau6. sai3 lou6 zai2 wui5 sau1 lei6 si6, hou2 hoi1 sam1.
+
+## 语音识别测试句 Speech Recognition Test Sentences
+
+### 音素覆盖测试 Phoneme Coverage Tests
+104. 八百八十八个爸爸不拍白布。
+105. 四是四，十是十，十四是十四，四十是四十。
+106. 红黄蓝绿青蓝紫，七种颜色真靓仔。
+107. 鸡公仔，尾弯弯，做人新抱甚艰难。
+108. 一二三四五六七，七六五四三二一。
+
+### 语调测试 Intonation Tests
+109. 你食咗饭未？（疑问语调）
+110. 食咗喇！（肯定语调）
+111. 真系？（惊讶语调）
+112. 梗系啦！（强调语调）
+113. 好喇好喇。（无奈语调）
+
+### 连读测试 Connected Speech Tests
+114. 我要去买嘢食，你去唔去？
+115. 佢话佢唔嚟，我哋自己去啦。
+116. 如果噚日你嚟咗，就好喇。
+117. 唔系咁样嘅，你误会咗。
+118. 点解你咁早就走咗？
+
+## 使用说明 Usage Instructions
+
+1. 每个条目包含：序号、恩平话文字、音标（如适用）、普通话翻译
+2. 音标采用粤语拼音方案
+3. 声调：1阴平 2阴上 3阴去 4阳平 5阳上 6阳去
+4. 建议录音时间：每个词汇2-3秒，短语3-5秒，句子5-10秒
+5. 录音环境：安静室内，无回音，采样率44.1kHz或更高
+6. 录音格式建议：WAV或FLAC无损格式
+7. 每个条目建议录制3-5遍，用于数据增强
+
+## 扩展建议 Extension Suggestions
+
+- 添加更多专业术语（医疗、法律、教育等）
+- 包含儿童常用语汇
+- 添加情感表达词汇
+- 增加地方特色词汇（如地名、特色食物等）
+- 录制不同年龄段、性别的语音样本
